@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Mundo","order":1,"parentId":0,"scrollX":1166,"scrollY":648},
+{"id":2,"expanded":true,"name":"Vila de pescadores","order":2,"parentId":1,"scrollX":711.2727272727273,"scrollY":480},
+{"id":3,"expanded":false,"name":"Casa do Tatsu","order":3,"parentId":2,"scrollX":534,"scrollY":387},
+{"id":4,"expanded":false,"name":"Litoral","order":4,"parentId":2,"scrollX":1281.6,"scrollY":948},
+{"id":5,"expanded":false,"name":"Floresta","order":5,"parentId":2,"scrollX":1300.8,"scrollY":732}
+]
